@@ -3,7 +3,7 @@
 ## An interactive roguelite “game” about breaking bad habits in 90 days
 
 ### Game Concept:
- "You Got This, Bro!" is an interactive online and IRL roguelite game where players take on the role of a Bro on a mission to break a bad habit and live a healthier, happier life. The main objective is to abstain from the bad habit for at least 90 days. Each day in the game represents a level where the player fights urges and temptations to indulge in the habit. The player has only one life, and if they give in to the habit, they must start again from day 1.
+ "You Got This, Bro!" is an interactive online and IRL roguelite game where players take on the role of a Bro on a mission to break a bad habit and live a healthier, happier life. The main objective is to abstain from the bad habit IRL for at least 90 days and mark a win or loss in the game everday. Each day in the game represents a level where the player fights urges and temptations to indulge in the habit. The player has only one life, and if they give in to the habit, they must start again from day 1.
 
 ### Key Features:
 1. **Trials and Errors:** The game is challenging, emphasizing that breaking a bad habit is not easy and requires perseverance.
